@@ -92,6 +92,6 @@ This project helps beginners understand:
   
 👨‍💻 Author
 Rishab Raj
-⭐ Support
 
+⭐ Support
 If you found this project helpful, consider giving it a ⭐ on GitHub.
